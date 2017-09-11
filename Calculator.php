@@ -86,8 +86,8 @@ if (isset($_GET['key'])) {
 } #end isset
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Rechenverlauf ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         if (isset($numbersSorted)) {
-            echo "<br>";
-            print_r($numbersSorted);
+            #echo "<br>";
+            #print_r($numbersSorted);
             if ($value_2 == 0) {
             }
             else {
